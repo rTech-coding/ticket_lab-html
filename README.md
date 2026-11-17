@@ -7,7 +7,7 @@ TicketLab es una herramienta diseñada para facilitar la creación de tickets pe
 ## ✨ Características
 
 - 🎫 **Creación de tickets:** diseña y genera tickets personalizados.
-- ⚙️ **Perfiles predefinidos:** guarda configuraciones para completar automáticamente determinados campos.
+- ⚙️ **Perfiles predefinidos:** guarda configuraciones para completar automáticamente determinados campos, además de eliminar, duplicar y editar estos mismos.
 - 📝 **Campos personalizables:** introduce y modifica la información de cada ticket.
 - 🖨️ **Vista de impresión:** prepara los tickets para imprimirlos.
 - 📱 **Diseño responsive:** compatible con ordenadores, móviles y tablets Android.
